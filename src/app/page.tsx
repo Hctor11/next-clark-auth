@@ -4,7 +4,7 @@ import type { AppProps } from "next/app"
 const page = () => {
   return (
     <div>
-        
+        <h1>Hola bienvenido</h1>
     </div>
   )
 }
